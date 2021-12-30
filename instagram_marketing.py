@@ -98,7 +98,7 @@ stock_target = ['muhmd_zhorif', 'ibec_freebankniftyequitycalls', 'hamidxazi', 't
 
 # get a session!
 
-session = InstaPy(username='gurugainsbot', password='hacker99667', headless_browser=True)
+session = InstaPy(username='username', password='password', headless_browser=True)
 
 # let's go! :>
 with smart_run(session):
@@ -156,10 +156,10 @@ with smart_run(session):
 
 """********************************************SEND DIRECT INSTA MESSAGES*******************************************"""
 
-#insta = InstaDM(username='icarus_investments', password='savetheworld', headless=False)
-#insta.login(username='icarus_investments', password='savetheworld')
+#insta = InstaDM(username='username', password='password', headless=False)
+#insta.login(username='username', password='password')
 # Send message
-#insta.sendMessage(user='tamzidyullah', message='Hey !')
+#insta.sendMessage(user='userrr', message='Hey !')
 
 # Send message
 #insta.sendGroupMessage(users=['user1', 'user2'], message='Hey !')
