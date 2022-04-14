@@ -28,7 +28,7 @@ import instaloader
 t = []
 
 L = instaloader.Instaloader() #nalazenje stvari sa instagrama
-L.login("gurugainsbot", "hacker99667")
+L.login("gurugainsblog", "password")
 #profile = instaloader.Profile.from_username(L.context, 'jlo') #daj mi pratioce od datog user-a
 #print(profile.get_posts())
 #for post in instaloader.Hashtag.from_name(L.context, 'forex').get_top_posts():
